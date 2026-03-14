@@ -13,9 +13,9 @@
 #
 ---
 include:
-  - board: "nice_nano@1.0.0//zmk"
+  - board: "nice_nano/nrf52840"
     shield: charybdis_left
-  - board: "nice_nano@1.0.0//zmk"
+  - board: "nice_nano/nrf52840"
     shield: charybdis_right
-  - board: "nice_nano@1.0.0//zmk"
+  - board: "nice_nano/nrf52840"
     shield: settings_reset
