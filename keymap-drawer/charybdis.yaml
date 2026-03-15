@@ -54,7 +54,7 @@ layers:
   - {t: ENTER, h: corrections}
   - SPACE
   - LEFT ALT
-  - BACK SPACE
+  - {t: BACK SPACE, h: DELETE}
   - RSHIFT
   - ENTER
   num_and_fun:
@@ -111,9 +111,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - Gui+ LEFT ALT
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LEFT SHIFT
   auto_mouse:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
