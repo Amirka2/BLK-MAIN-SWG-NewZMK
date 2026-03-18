@@ -49,65 +49,65 @@ layers:
   - DOT
   - FSLH
   - auto_mouse
-  - LGUI
+  - num_and_fun
   - {t: AL CALCULATOR, h: num_and_fun}
   - {t: ENTER, h: corrections}
-  - SPACE
+  - {t: SPACE, h: snipe}
   - LEFT ALT
   - {t: BACK SPACE, h: DELETE}
   - RSHIFT
   - ENTER
   num_and_fun:
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - F1
   - F2
   - F3
   - F4
   - F5
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - F6
   - F7
   - F8
   - F9
   - F10
-  - LPAR
-  - '7'
-  - '8'
-  - '9'
-  - KP DIVIDE
-  - '*'
   - {t: ▽, type: trans}
-  - Alt+ LEFT
-  - Ctl+ LEFT
-  - UP ARROW
-  - Ctl+ RIGHT
-  - F11
-  - RPAR
-  - '4'
-  - '5'
-  - '6'
-  - '-'
-  - Sft+ =
   - {t: ▽, type: trans}
-  - Alt+ RIGHT
-  - LEFT
-  - DOWN ARROW
-  - RIGHT
-  - F12
-  - KP 0
   - '1'
   - '2'
   - '3'
-  - KP DOT
-  - LEFT ALT
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - Gui+ C
+  - Gui+ V
+  - Alt+ ENTER
+  - O
+  - Sft+ F6
+  - <
+  - {t: (, h: '{'}
+  - {t: ), h: '}'}
+  - '>'
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -218,12 +218,12 @@ layers:
   - {t: ▽, type: trans}
   - L CLK
   - R CLK
-  - {t: SCROLLLOCK, h: snipe, type: held}
-  - {type: held}
+  - {t: SCROLLLOCK, h: snipe}
+  - {t: ▽, type: trans}
   - L CLK
   - R CLK
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - M CLK
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -249,7 +249,7 @@ layers:
   - {t: ▽, type: trans}
   - ПРОШУ РАССМОТР
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - UP ARROW
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -260,9 +260,9 @@ layers:
   - Ctl+ DELETE
   - {t: ▽, type: trans}
   - СПАСИБО!
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LEFT
+  - DOWN ARROW
+  - RIGHT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -277,11 +277,11 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - SPACE
   - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LEFT ALT
+  - LEFT GUI
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - DELETE
